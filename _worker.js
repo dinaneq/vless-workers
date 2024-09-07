@@ -867,5 +867,5 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	'raw.githubusercontent.com/indo2024/img/main/',                // Weibo - A popular social media platfo
+	'raw.githubusercontent.com/indo2024/img/main',                // Weibo - A popular social media platfo
 	];
